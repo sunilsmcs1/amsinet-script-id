@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "AmsiNet: Uncertainty-Triggered Multi-Agent Context Fusion for Efficient Script Identification in Indian Scene Text"
+authors:
+  - family-names: Shinde
+    given-names: Suneel C.
+  - family-names: Malemath
+    given-names: V. S.
+license: MIT
